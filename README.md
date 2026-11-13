@@ -51,13 +51,14 @@
 - Python Full Stack with AI – PythonLife
 - Generative AI – Google Cloud (L4G)
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvana-2205&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Bhuvana-2205&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvana-2205&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Bhuvana-2205&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhuvana-2205&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bhuvana-2205&theme=radical)
 
 ---
 ⭐ Thanks for visiting my profile!
