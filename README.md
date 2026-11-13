@@ -13,7 +13,7 @@
 
 ## 🌐 Connect With Me
 - LinkedIn: [Bhuvana Sree](https://www.linkedin.com/in/ronanki-bala)
-- GitHub: [Bhuvana-2205](https://github.com/Bhuvana-2205)
+- GitHub: https://github.com/Ronanki-bala
 
 ## 💻 Technical Skills
 
