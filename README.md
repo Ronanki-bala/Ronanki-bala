@@ -1,16 +1,62 @@
-## Hi there 👋
 
-<!--
-**Bhuvana-2205/Bhuvana-2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Bhuvana Sree
 
-Here are some ideas to get you started:
+### Aspiring Python Developer | Computer Science Graduate 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+- 🎓 B.Tech Computer Science and Engineering graduate.
+- 🌱 Currently improving my skills in Python and Django.
+- 💻 Interested in Python Development and Web Development.
+- 🔭 Worked on projects like Railway Ticket Booking System and Student Management System.
+- 💡 Passionate about learning new technologies and building practical applications.
+- 📫 Connect with me through LinkedIn and GitHub.
+
+## 🌐 Connect With Me
+- LinkedIn: [Bhuvana Sree](https://www.linkedin.com/in/ronanki-bala)
+- GitHub: [Bhuvana-2205](https://github.com/Bhuvana-2205)
+
+## 💻 Technical Skills
+
+- **Programming Language:** Python
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Framework:** Django
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup
+- **Database:** SQLite
+- **Data Visualization:** Power BI
+- **Spreadsheet:** Microsoft Excel
+- **Tools:** VS Code, Google Colab
+- **Version Control:** Git, GitHub
+
+## 🚀 Projects
+
+### 1. Student Management System
+- Developed a web-based application using Python and Django.
+- Implemented CRUD operations using Django ORM.
+- Used SQLite for database management.
+- **Technologies:** Python, Django, HTML, CSS, SQLite.
+
+### 2. Railway Ticket Booking System
+- Developed a railway reservation application using Python and OOP.
+- Implemented registration, login, train details and ticket booking.
+- Generated unique PNR numbers and managed seat availability.
+- **Technologies:** Python, OOP, Exception Handling.
+
+### 3. E-Commerce Product Web Scraping
+- Developed a web scraping application to extract product details and prices.
+- Used BeautifulSoup and Requests to collect website data.
+- Organized extracted data using Pandas.
+- **Technologies:** Python, Requests, BeautifulSoup, Pandas.
+
+## 📜 Certifications
+- Python Full Stack with AI – PythonLife
+- Generative AI – Google Cloud (L4G)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvana-2205&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhuvana-2205&theme=radical)
+
+---
+⭐ Thanks for visiting my profile!
+
