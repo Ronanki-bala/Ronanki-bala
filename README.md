@@ -55,6 +55,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvana-2205&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvana-2205&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhuvana-2205&theme=radical)
 
 ---
