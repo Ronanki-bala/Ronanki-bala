@@ -54,11 +54,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Bhuvana-2205&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronanki-bala&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Bhuvana-2205&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronanki-bala&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bhuvana-2205&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ronanki-bala&theme=radical&hide_border=true)
+
 
 ---
 ⭐ Thanks for visiting my profile!
