@@ -51,8 +51,10 @@
 - Python Full Stack with AI – PythonLife
 - Generative AI – Google Cloud (L4G)
 
+
 ## 🌐 Live Demo
 - 🚀 https://ronanki-bala.github.io/My-Portfolio/
+
 
 
 ## 📊 GitHub Stats
