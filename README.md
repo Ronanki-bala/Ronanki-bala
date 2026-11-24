@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Bhuvana Sree
+# Hi 👋, I'm Ronanki Bala
 
 ### Aspiring Python Developer | Computer Science Graduate 🎓
 
